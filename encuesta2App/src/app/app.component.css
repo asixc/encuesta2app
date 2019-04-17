@@ -1,0 +1,12 @@
+.desc, header{
+    color: #ffffff; 
+
+}
+div header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div header {
+    vertical-align: middle;
+}
